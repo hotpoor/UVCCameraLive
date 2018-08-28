@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UVCCameraLive.iml" filepath="$PROJECT_DIR$/UVCCameraLive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uvccamera/uvccamera.iml" filepath="$PROJECT_DIR$/uvccamera/uvccamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yasea/yasea.iml" filepath="$PROJECT_DIR$/yasea/yasea.iml" />
+    </modules>
+  </component>
+</project>

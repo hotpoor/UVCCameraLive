@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">摄像头服务</string>
+    <string name="permission_audio">录音权限</string>
+    <string name="permission_ext_storage">存储权限</string>
+    <string name="permission_network">网络权限</string>
+    <string name="permission_title">权限标题</string>
+    <string name="permission_ext_storage_request">申请存储权限</string>
+    <string name="permission_audio_recording_request">申请录音权限</string>
+    <string name="permission_network_request">申请网络权限</string>
+    <string name="permission_camera_request">申请摄像头权限</string>
+</resources>
